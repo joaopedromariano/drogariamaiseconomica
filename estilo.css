@@ -50,8 +50,8 @@ main {
   border-radius: 16px;
 }
 .btn-principal, .btn {
-  background: #ffb412;
-  color: #b90a2c;
+  background: #0f47f8;
+  color: #ffffff;
   padding: 12px 30px;
   border: none;
   border-radius: 4px;
@@ -62,7 +62,7 @@ main {
   text-decoration: none;
   display: inline-block;
 }
-.btn-principal:hover, .btn:hover { background: #ffe4a6; }
+.btn-principal:hover, .btn:hover { background: #1e002c; }
 .destaques, .produtos-grid, .categorias-grid, .info-servicos {
   margin-top: 38px;
 }
@@ -86,7 +86,7 @@ main {
   margin-bottom: 8px;
 }
 .preco {
-  color: #d11e3b;
+  color: #ffffff;
   font-size: 1.12em;
   font-weight: bold;
 }
@@ -103,7 +103,7 @@ main {
   box-shadow: 0 2px 8px #b90a2c11;
 }
 footer {
-  background: #24293a;
+  background: #0f47f8;
   color: #eee;
   text-align: center;
   padding: 17px 0;
